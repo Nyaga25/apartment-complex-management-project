@@ -1,0 +1,31 @@
+body    {
+    background-image: url(../IMAGES/Apartment%20for%20login.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+.centerish  {
+        margin-top: 50%;
+}
+.hypertexts1    {
+    color: #0000e6;
+}
+.submitbtn  {
+    width: 170px;
+}
+form    {
+    width: 500px;
+}
+.tbox   {
+    width: 400px;
+}
+.head1  {
+    font-weight: 300;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+.errors {
+    color: red;
+    font-weight: 40;
+}
